@@ -4,9 +4,9 @@ import (
 	"image/color"
 
 	"fyne.io/fyne/v2/app"
-	"github.com/teeratem/pixel/apptype"
-	"github.com/teeratem/pixel/swatch"
-	"github.com/teeratem/pixel/ui"
+	"github.com/teeratem/pixl/apptype"
+	"github.com/teeratem/pixl/swatch"
+	"github.com/teeratem/pixl/ui"
 )
 
 func main() {

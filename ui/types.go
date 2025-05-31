@@ -2,8 +2,8 @@ package ui
 
 import (
 	"fyne.io/fyne/v2"
-	"github.com/teeratem/pixel/apptype"
-	"github.com/teeratem/pixel/swatch"
+	"github.com/teeratem/pixl/apptype"
+	"github.com/teeratem/pixl/swatch"
 )
 
 type AppInit struct {

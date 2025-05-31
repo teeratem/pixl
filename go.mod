@@ -1,4 +1,4 @@
-module github.com/teeratem/pixel
+module github.com/teeratem/pixl
 
 go 1.24.3
 
