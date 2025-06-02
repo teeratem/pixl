@@ -3,7 +3,6 @@ module github.com/teeratem/pixl
 go 1.24.3
 
 require (
-	fyne.io/fyne v1.4.3
 	fyne.io/fyne/v2 v2.6.1
 	github.com/lusingander/colorpicker v0.7.5
 )
