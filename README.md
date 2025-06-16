@@ -4,6 +4,12 @@ Pixl is a modern pixel art editor built with Go and the Fyne toolkit. It provide
 
 ## Features
 
+<div align="center">
+  <img src="assets/images/screenshot.png" alt="Pixl Editor Screenshot" width="800"/>
+  <br>
+  <em>Pixl Editor Interface</em>
+</div>
+
 - 🎨 Pixel-perfect drawing with customizable brush colors
 - 🖌️ Color picker with hue-based color selection
 - 🎯 Color swatches for quick color access
