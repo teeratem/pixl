@@ -5,7 +5,7 @@ Pixl is a modern pixel art editor built with Go and the Fyne toolkit. It provide
 ## Features
 
 <div align="center">
-  <img src="assets/images/screenshot.png" alt="Pixl Editor Screenshot" width="800"/>
+  <img src="assets/images/screenshot.png" alt="Pixl Editor Screenshot" width="550"/>
   <br>
   <em>Pixl Editor Interface</em>
 </div>
