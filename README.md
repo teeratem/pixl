@@ -32,7 +32,6 @@ Note: Currently, this project is configured to run in WSL Ubuntu environment. Fo
 1. Clone the repository:
 ```bash
 git clone https://github.com/teeratem/pixl.git
-cd pixl
 ```
 
 2. Install dependencies:
