@@ -33,9 +33,9 @@ cd pixl
 go mod download
 ```
 
-3. Build the application:
+3. Run the application:
 ```bash
-go build
+LANG=en_US.UTF-8 go run ./pixl
 ```
 
 ## Usage
