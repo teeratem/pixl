@@ -15,12 +15,19 @@ Pixl is a modern pixel art editor built with Go and the Fyne toolkit. It provide
 - 🎯 Precise pixel placement with cursor guides
 
 ## Requirements
+Note: Currently, this project is configured to run in WSL Ubuntu environment. For running on native Windows or other platforms, additional setup and configuration may be required.
 
+### WSL Ubuntu Requirements
+- Windows 10/11 with WSL2 installed
+- Ubuntu on WSL2
 - Go 1.24 or later
-- Fyne v2.6.1
-- Required system dependencies for Fyne (see [Fyne Installation](https://developer.fyne.io/started/))
+- Required system dependencies:
+  ```bash
+  sudo apt-get update
+  sudo apt-get install gcc libgl1-mesa-dev xorg-dev
+  ```
 
-## Installation
+## Installation (WSL Ubuntu)
 
 1. Clone the repository:
 ```bash
@@ -35,7 +42,7 @@ go mod download
 
 3. Run the application:
 ```bash
-LANG=en_US.UTF-8 go run ./pixl
+LANG=en_US.UTF-8 go run ./pixl 
 ```
 
 ## Usage
