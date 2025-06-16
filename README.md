@@ -27,7 +27,7 @@ Note: Currently, this project is configured to run in WSL Ubuntu environment. Fo
   sudo apt-get install gcc libgl1-mesa-dev xorg-dev
   ```
 
-## Installation (WSL Ubuntu)
+## Run Project (require WSL Ubuntu)
 
 1. Clone the repository:
 ```bash
